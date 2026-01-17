@@ -1,5 +1,5 @@
 # Routine-Application-
-# RoutineApp 📱
+
 A Daily Routine & Time Management app built to help university students stay productive, focused, and motivated.
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
@@ -25,10 +25,10 @@ RoutineApp is the time management solution I wish I had from day one. Built with
 ## 📸 Screenshots
 | Home Screen | Calendar | Focus Timer |
 |-------------|----------|-------------|
-| ![Home](screenshots/home.png) | ![Calendar](screenshots/calendar.png) | ![Focus](screenshots/focus.png) |
-| Statistics | Dark Mode | Add Task |
-|------------|-----------|----------|
-| ![Stats](screenshots/stats.png) | ![Dark](screenshots/dark.png) | ![Add](screenshots/add.png) |
+| ![Home](Home.jpg) | ![Calendar](Calendar.jpg) | ![Focus Timer](Focus%20Timer.jpg) |
+| Statistics | Streak & Theme |
+|------------|----------------|
+| ![Statistics](Statetics.jpg) | ![Streak and Theme](Streak%20and%20Theme.jpg) |
 ---
 ## 🎬 Demo
 [![Watch Demo](https://img.shields.io/badge/YouTube-Watch_Demo-red?style=for-the-badge&logo=youtube)](YOUR_YOUTUBE_LINK_HERE)
@@ -52,10 +52,10 @@ RoutineApp is the time management solution I wish I had from day one. Built with
 ### Installation
 1. Clone the repository
    ```bash
-   git clone https://github.com/YOUR_USERNAME/RoutineApp.git
+   git clone https://github.com/zoheyb/Routine-Application.git
 Navigate to project folder
 
-cd RoutineApp
+cd Routine-Application
 Install dependencies
 
 npm install
@@ -77,8 +77,6 @@ Zohaib Hassan
 
 
 LinkedIn
- 
-
 GitHub
 
 📄 License
@@ -89,11 +87,3 @@ React Native community
 Expo team
 AI-powered development tools
 ⭐ If you found this project helpful, give it a star!
-
----
-**Copy the text above and paste it into your README.md file!**
-Replace:
-- `YOUR_YOUTUBE_LINK_HERE`
-- `YOUR_LINKEDIN_URL`
-- `YOUR_GITHUB_URL`
-- `YOUR_USERNAME`
