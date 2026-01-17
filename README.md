@@ -25,10 +25,10 @@ RoutineApp is the time management solution I wish I had from day one. Built with
 ## 📸 Screenshots
 | Home Screen | Calendar | Focus Timer |
 |-------------|----------|-------------|
-| ![Home](Home.jpg) | ![Calendar](Calendar.jpg) | ![Focus Timer](Focus%20Timer.jpg) |
+| ![Home](Routine%20App/Home.jpg) | ![Calendar](Routine%20App/Calendar.jpg) | ![Focus Timer](Routine%20App/Focus%20Timer.jpg) |
 | Statistics | Streak & Theme |
 |------------|----------------|
-| ![Statistics](Statetics.jpg) | ![Streak and Theme](Streak%20and%20Theme.jpg) |
+| ![Statistics](Routine%20App/Statetics.jpg) | ![Streak and Theme](Routine%20App/Streak%20and%20Theme.jpg) |
 ---
 ## 🎬 Demo
 [![Watch Demo](https://img.shields.io/badge/YouTube-Watch_Demo-red?style=for-the-badge&logo=youtube)](YOUR_YOUTUBE_LINK_HERE)
@@ -44,46 +44,12 @@ RoutineApp is the time management solution I wish I had from day one. Built with
 | **expo-notifications** | Push notifications |
 | **react-native-calendars** | Calendar component |
 ---
-## 🚀 Getting Started
-### Prerequisites
-- Node.js installed
-- Expo CLI (`npm install -g expo-cli`)
-- Expo Go app on your phone
-### Installation
-1. Clone the repository
-   ```bash
-   git clone https://github.com/zoheyb/Routine-Application.git
-Navigate to project folder
-
-cd Routine-Application
-Install dependencies
-
-npm install
-Start the app
-
-npx expo start
-Scan QR code with Expo Go app
-
-🤖 Built with AI
-This project was developed with AI-assisted development, demonstrating the power of combining human creativity with AI efficiency.
-
-AI helped with:
-
-Debugging complex issues faster
-Implementing features efficiently
-Learning best practices in real-time
-👤 Author
-Zohaib Hassan
-
-
-LinkedIn
-GitHub
-
-📄 License
-This project is private and not open for distribution.
-
-🙏 Acknowledgments
-React Native community
-Expo team
-AI-powered development tools
-⭐ If you found this project helpful, give it a star!
+## 🤖 Built with AI
+This project was developed with **AI-assisted development**, demonstrating the power of combining human creativity with AI efficiency.
+---
+## 👤 Author
+**Zohaib Hassan**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/zoheyb)
+---
+⭐ **If you found this project helpful, give it a star!**
